@@ -1,0 +1,98 @@
+[{
+		"Id": "ninja_star",
+		"Name": "Ninja Star",
+		"Description": "That can't be what they're actually called. Right?",
+		"PowerType": 0,
+		"PowerValue": 25,
+		"Properties": [],
+		"CardType": "AttackCard"
+	}, {
+		"Id": "samurai_sword",
+		"Name": "Samurai Sword",
+		"Description": "A katana.",
+		"PowerType": 0,
+		"PowerValue": 40,
+		"Properties": [],
+		"CardType": "AttackCard"
+	}, {
+		"Id": "karate_gi",
+		"Name": "Karate Gi",
+		"Description": "It helps with dexterity and comes with a black belt!",
+		"PowerType": 0,
+		"PowerValue": 25,
+		"Properties": [],
+		"CardType": "DefendCard"
+	}, {
+		"Id": "uncanny_dodge",
+		"Name": "Uncanny Dodge",
+		"Description": "How are you able to dodge that!?",
+		"PowerType": 0,
+		"PowerValue": 40,
+		"Properties": [],
+		"CardType": "DefendCard"
+	}, {
+		"Id": "ray_gun",
+		"Name": "Ray Gun",
+		"Description": "Just a basic ray gun.",
+		"PowerType": 1,
+		"PowerValue": 25,
+		"Properties": [],
+		"CardType": "AttackCard"
+	}, {
+		"Id": "lightsaber",
+		"Name": "Lightsaber",
+		"Description": "Flagged for copyright infringement.",
+		"PowerType": 1,
+		"PowerValue": 40,
+		"Properties": [],
+		"CardType": "AttackCard"
+	}, {
+		"Id": "shield_matrix",
+		"Name": "Shield Matrix",
+		"Description": "It uses lasers or something.",
+		"PowerType": 1,
+		"PowerValue": 25,
+		"Properties": [],
+		"CardType": "DefendCard"
+	}, {
+		"Id": "power_armor",
+		"Name": "Power Armor",
+		"Description": "A heavy mechanized suit.",
+		"PowerType": 1,
+		"PowerValue": 40,
+		"Properties": [],
+		"CardType": "DefendCard"
+	}, {
+		"Id": "talisman",
+		"Name": "Magic Talisman",
+		"Description": "Oooh, exotic!",
+		"PowerType": 2,
+		"PowerValue": 45,
+		"Properties": [],
+		"CardType": "AttackCard"
+	}, {
+		"Id": "voodoo_doll",
+		"Name": "Voodoo Doll",
+		"Description": "Spooky!",
+		"PowerType": 2,
+		"PowerValue": 25,
+		"Properties": [],
+		"CardType": "AttackCard"
+	}, {
+		"Id": "mystic_cloak",
+		"Name": "Mystic_Cloak",
+		"Description": "It conceals the wearer in shadows.",
+		"PowerType": 2,
+		"PowerValue": 25,
+		"Properties": [],
+		"CardType": "DefendCard"
+	}, {
+		"Id": "mage_armor",
+		"Name": "Mage Armor",
+		"Description": "A glowing magical suit of heavy armor.",
+		"PowerType": 2,
+		"PowerValue": 40,
+		"Properties": [],
+		"CardType": "DefendCard"
+	}
+]
